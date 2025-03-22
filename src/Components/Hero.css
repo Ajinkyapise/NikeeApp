@@ -1,0 +1,57 @@
+.hero {
+  display: flex;
+  align-items: center;
+  height: calc(100vh - 72px);
+}
+
+.hero h1 {
+  font-weight: 800;
+  font-size: 108px;
+  line-height: 102px;
+}
+
+.hero p {
+  font-weight: 600;
+  color: var(--gray); /* Make sure --gray is defined in your :root */
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 40px;
+  margin: 20px 0;
+}
+
+.shop-now {
+  background-color: black;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.secondary-btn {
+  background: transparent;
+  color: var(--gray);
+  border: 1px solid var(--gray);
+  padding: 12px 24px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.shopping p {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.brand-icons {
+  display: flex;
+  gap: 16px;
+}
+
+.hero-image img {
+  max-width: 100%;
+  height: auto;
+}
