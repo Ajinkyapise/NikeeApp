@@ -2,7 +2,8 @@
 
 A simple and responsive Nike-themed landing page built using HTML, CSS, and JavaScript.
 
-![Nike Landing Page](./screenshot.png)
+![image](https://github.com/user-attachments/assets/4b9403c9-3a73-4ccc-979f-6af3452df773)
+
 
 ## 🚀 Features
 
@@ -21,9 +22,4 @@ A simple and responsive Nike-themed landing page built using HTML, CSS, and Java
 - JavaScript (optional for interactivity)
 - Responsive design principles
 
-## 📸 Preview
-
-![Screenshot](./screenshot.png)
-
-## 📁 Folder Structure
 
